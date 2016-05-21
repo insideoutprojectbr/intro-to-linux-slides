@@ -1,6 +1,6 @@
 # intro-to-linux-slides
 
-Slides da palestra do evento Intro do Linux
+Slides da palestra dada por Thaíssa Falbo no evento Intro do Linux
 
 Construído usando [Remark.js](http://remarkjs.com)
 
